@@ -1,0 +1,14 @@
+/home/kiriko/Documents/VSwork/Labwork1/bin/Debug/net8.0/Documents
+/home/kiriko/Documents/VSwork/Labwork1/bin/Debug/net8.0/Documents.deps.json
+/home/kiriko/Documents/VSwork/Labwork1/bin/Debug/net8.0/Documents.runtimeconfig.json
+/home/kiriko/Documents/VSwork/Labwork1/bin/Debug/net8.0/Documents.dll
+/home/kiriko/Documents/VSwork/Labwork1/bin/Debug/net8.0/Documents.pdb
+/home/kiriko/Documents/VSwork/Labwork1/obj/Debug/net8.0/Documents.GeneratedMSBuildEditorConfig.editorconfig
+/home/kiriko/Documents/VSwork/Labwork1/obj/Debug/net8.0/Documents.AssemblyInfoInputs.cache
+/home/kiriko/Documents/VSwork/Labwork1/obj/Debug/net8.0/Documents.AssemblyInfo.cs
+/home/kiriko/Documents/VSwork/Labwork1/obj/Debug/net8.0/Documents.csproj.CoreCompileInputs.cache
+/home/kiriko/Documents/VSwork/Labwork1/obj/Debug/net8.0/Documents.dll
+/home/kiriko/Documents/VSwork/Labwork1/obj/Debug/net8.0/refint/Documents.dll
+/home/kiriko/Documents/VSwork/Labwork1/obj/Debug/net8.0/Documents.pdb
+/home/kiriko/Documents/VSwork/Labwork1/obj/Debug/net8.0/Documents.genruntimeconfig.cache
+/home/kiriko/Documents/VSwork/Labwork1/obj/Debug/net8.0/ref/Documents.dll
