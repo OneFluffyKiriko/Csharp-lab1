@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VRvKqGeNc2v8nj84j1ixzLVHpzcHYekYtXQfa80pQnZ6zao05xViHNVJAggefKK+il9RXdbb+tGCkKLjlZ3MtQ==",
+  "dgSpecHash": "mDZJhx8bhIx1moCUc5Tsblkgzz7XaifB8Xku+/ShqKT5lb91Q6JHR1y6ooAMUVn05tz0dYvgUpvN+WUiNBtV0g==",
   "success": true,
-  "projectFilePath": "/home/kiriko/Documents/VSwork/Labwork1/Documents.csproj",
+  "projectFilePath": "/home/kiriko/Documents/CSharpLabs/lab1/Documents.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

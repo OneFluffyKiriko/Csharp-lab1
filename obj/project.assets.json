@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/kiriko/Documents/VSwork/Labwork1/Documents.csproj",
+      "projectUniqueName": "/home/kiriko/Documents/CSharpLabs/lab1/Documents.csproj",
       "projectName": "Documents",
-      "projectPath": "/home/kiriko/Documents/VSwork/Labwork1/Documents.csproj",
+      "projectPath": "/home/kiriko/Documents/CSharpLabs/lab1/Documents.csproj",
       "packagesPath": "/home/kiriko/.nuget/packages/",
-      "outputPath": "/home/kiriko/Documents/VSwork/Labwork1/obj/",
+      "outputPath": "/home/kiriko/Documents/CSharpLabs/lab1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/kiriko/.nuget/NuGet/NuGet.Config"
